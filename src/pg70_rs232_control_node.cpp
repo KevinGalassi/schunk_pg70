@@ -2,6 +2,7 @@
 
 #include <pg70_rs232_control.h>
 #include <pg70_action_server/pg70_grasp_action_server.h>
+#include <pg70_action_server/pg70_move_action_server.h>
 
 int main(int argc, char *argv[])
 {
